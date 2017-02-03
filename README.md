@@ -1,3 +1,3 @@
-# Schuhe
+# MeineSchuhe
 
 Eine Liste meiner Schuhe.
